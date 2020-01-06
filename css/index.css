@@ -202,3 +202,20 @@ a {
 .main-content img {
   width: 100%;
 }
+.title1 {
+  width: 50%;
+  margin: 10px auto;
+  padding-bottom: 5px;
+  color: black;
+  border-right: 4px dashed #d79922;
+  border-left: 4px dashed #d79922;
+  border-bottom: 4px dashed #d79922;
+  border-radius: 0px 0px 20px 20px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Audiowide', cursive;
+}
+.main-text-area {
+  margin: 0px auto;
+  min-height: 300px;
+}
